@@ -1,0 +1,1 @@
+"C:\Program Files\Python313\python.exe" MCProxy.py --listen-host 127.0.0.1 --listen-port 3000 --target-host 192.168.2.186 --target-port 3000 --log-level DEBUG

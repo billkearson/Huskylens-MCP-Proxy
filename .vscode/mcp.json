@@ -1,0 +1,12 @@
+{
+  "servers": {
+    // "Husky_Device": {
+    //   "type": "sse",
+    //   "url": "http://192.168.2.186:3000/sse"
+    // },
+    "Husky": {
+      "type": "sse",
+      "url": "http://127.0.0.1:3000/sse"
+    }
+  }
+}
